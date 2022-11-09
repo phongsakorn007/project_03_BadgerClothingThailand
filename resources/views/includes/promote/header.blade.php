@@ -19,11 +19,11 @@
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                              aria-expanded="false">ประเภทสินค้า</a>
                             <ul class="dropdown-menu">
-                                <li class="nav-item"><a class="nav-link" href="/category">Shop Category</a></li>
-                                <li class="nav-item"><a class="nav-link" href="/single-product">Product Details</a></li>
-                                <li class="nav-item"><a class="nav-link" href="/checkout">Product Checkout</a></li>
-                                <li class="nav-item"><a class="nav-link" href="/cart">Shopping Cart</a></li>
-                                <li class="nav-item"><a class="nav-link" href="/confirmation">Confirmation</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/category">เสื้อวินเทจ</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/single-product">เสื้อวง</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/checkout">เสื้อลายการ์ตูน</a></li>
+                                {{-- <li class="nav-item"><a class="nav-link" href="/cart">Shopping Cart</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/confirmation">Confirmation</a></li> --}}
                             </ul>
                         </li>
                         <li class="nav-item submenu dropdown">

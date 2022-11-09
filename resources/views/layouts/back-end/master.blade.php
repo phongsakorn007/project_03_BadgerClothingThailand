@@ -87,16 +87,30 @@
                     </li>  
 
                     <li class="menu-item">
-                        <a href="{{ route('category.index') }}" class="menu-link">
+                        <a href="{{ route('categories.index') }}" class="menu-link">
                             <i class="menu-icon tf-icons bx bx-grid-alt"></i>
-                            <div data-i18n="Analytics">Category</div>
+                            <div data-i18n="Analytics">Categories</div>
                         </a>
                     </li>  
 
                     <li class="menu-item">
-                        <a href="{{ route('product.index') }}" class="menu-link">
+                        <a href="{{ route('products.index') }}" class="menu-link">
                             <i class="menu-icon tf-icons bx bx-cart-alt"></i>
-                            <div data-i18n="Analytics">Product</div>
+                            <div data-i18n="Analytics">Products</div>
+                        </a>
+                    </li>  
+
+                    <li class="menu-item">
+                        <a href="{{ route('contents.index') }}" class="menu-link">
+                            <i class="menu-icon tf-icons bx bx-cart-alt"></i>
+                            <div data-i18n="Analytics">Contents</div>
+                        </a>
+                    </li>  
+
+                    <li class="menu-item">
+                        <a href="{{ route('abouts.index') }}" class="menu-link">
+                            <i class="menu-icon tf-icons bx bx-cart-alt"></i>
+                            <div data-i18n="Analytics">Abouts</div>
                         </a>
                     </li>  
 

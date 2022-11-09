@@ -141,5 +141,4 @@
 		</div>
 	</section>
 	<!--================End Order Details Area =================-->
-	<?php
 @stop
